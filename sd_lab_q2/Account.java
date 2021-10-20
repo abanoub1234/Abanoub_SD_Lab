@@ -94,15 +94,5 @@ public class Account
         return balance;
     }
     
-    /*public void printAccount() 
-    {
-        System.out.println("---------------Account Information------------");
-        System.out.println("ID: " + id);
-        System.out.println("Balance: " + balance);
-        System.out.println("Annual Interest Rate: " + annualInterestRate);
-        System.out.println();
-    }*/
-
-
-    
+       
 }
